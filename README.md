@@ -1,4 +1,4 @@
-# stratos测试网v1.0 一键脚本（Ubuntu&CentOS）
+# stratos测试网v0.3.0 一键脚本（Ubuntu&CentOS）
 ### ===本脚本仅限TopMininG社群用户使用===
 #### ■ 一键脚本运行方法(整行复制粘贴执行)：
   
