@@ -31,7 +31,8 @@
 ##### 5：Ubuntu系统需先执行sudo apt update 确保系统软件依赖包为最新
 ##### 6：Centos系统需先执行sudo yum update 确保系统软件依赖包为最新
 
-<img width="403" alt="スクリーンショット 2021-07-17 19 09 56" src="https://user-images.githubusercontent.com/86814869/126033598-09618a12-2933-4bcd-8eca-ca8f54750aba.png">
+<img width="397" alt="スクリーンショット 2021-07-18 14 16 39" src="https://user-images.githubusercontent.com/86814869/126056625-5a97a54e-a26e-4086-bd99-88b4d36d421e.png">
+
 
 #### ■ 常用链接：  
 ##### 1.stratos官网：https://www.thestratos.org/
